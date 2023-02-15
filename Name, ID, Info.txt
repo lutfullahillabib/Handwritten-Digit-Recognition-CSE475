@@ -1,0 +1,14 @@
+#Info =
+CSE475
+SECTION-01
+SPRING-2021
+East West University
+
+Project_Topic: Handwritten Digit-Recognizer
+
+Submitted by:
+Md. Lutfullahil Labib (2017-1-60-015)
+2017-1-60-015@std.ewubd.edu
+ & 
+Tasnim Khan Nishuti (2017-1-60-041)
+2017-1-60-041@std.ewubd.edu
